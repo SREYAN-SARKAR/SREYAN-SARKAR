@@ -11,17 +11,9 @@ Currently focused on:
 ## 🛠️ Tools & Tech
 
 ### Languages
-* **C**
-* **Python**
-* **Java**
-
-### Web Development
-* **HTML**
-* **CSS**
-* **Java Script**
-
-### Data & Machine Learning
-* **Jupyter**
+* **Languages - C, Python, Java**
+* **Web Develpoment - HTML, CSS, Java Script**
+* **Machine Learning - Jupyter**
 ---
 ## 📫 How to reach me
 
