@@ -2,25 +2,10 @@
 
 ### Software Engineering Student | Frontend Developer | ML & Data Analytics Enthusiast
 
-I'm a **B.Tech Software Engineering student** passionate about building useful, modern, and user-friendly applications.
-
-I enjoy working with **web development, programming, data analytics, and machine learning**, while continuously improving my problem-solving and development skills.
-
----
-
-## 👨‍💻 I am a
-
-* 🎓 Software Engineering student
-* 💻 Interested in **Frontend Development & Machine Learning**
-* 📊 Exploring **Data Analytics & Data Science**
-* 🧠 Currently improving my **DSA and problem-solving skills**
-* 🚀 I enjoy turning ideas into practical projects
-* 🌱 Always learning and experimenting with new technologies
-
 ---
 
 ## 
-I'm currently focused on:
+Currently focused on:
 
 * 🌐 Building **responsive and modern web applications**
 * 🤖 Learning and implementing **Machine Learning projects**
@@ -49,22 +34,6 @@ I'm currently focused on:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-
-### Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
----
-
-## 🚀 Featured Project
-
-### 🧮 Modern Calculator
-
-A modern, responsive, and interactive web calculator built using **HTML, CSS, and JavaScript**.
-
-🔗 [View Project](https://github.com/SREYAN-SARKAR/Modern-Calculator)
 
 ---
 
