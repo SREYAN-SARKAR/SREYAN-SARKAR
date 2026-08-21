@@ -8,7 +8,7 @@ I enjoy working with **web development, programming, data analytics, and machine
 
 ---
 
-## 👨‍💻 Who am I?
+## 👨‍💻 I am a
 
 * 🎓 Software Engineering student
 * 💻 Interested in **Frontend Development & Machine Learning**
@@ -19,8 +19,7 @@ I enjoy working with **web development, programming, data analytics, and machine
 
 ---
 
-## 🔭 What am I currently working on?
-
+## 
 I'm currently focused on:
 
 * 🌐 Building **responsive and modern web applications**
@@ -78,7 +77,6 @@ A modern, responsive, and interactive web calculator built using **HTML, CSS, an
 
 ### 💡 "Always learning. Always building. Always improving."
 
-⭐ Feel free to explore my repositories and follow my journey!
 
 <!--
 **SREYAN-SARKAR/SREYAN-SARKAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
