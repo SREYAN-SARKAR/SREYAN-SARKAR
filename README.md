@@ -2,14 +2,12 @@
 
 ### Software Engineering Student | Frontend Developer | ML & Data Analytics Enthusiast
 ---
-
 ## 
 Currently focused on:
 *  Building and improving projects to grow my development portfolio
 *  Making different new project whether it is simple or complex.
 
 ---
-
 ## 🛠️ Tools & Tech
 
 ### Languages
@@ -25,14 +23,12 @@ Currently focused on:
 ### Data & Machine Learning
 * **Jupyter**
 ---
-
 ## 📫 How to reach me
 
 * 💼 **LinkedIn:** [Sreyan Sarkar](https://www.linkedin.com/in/sreyan-sarkar/)
 * 🐙 **GitHub:** [SREYAN-SARKAR](https://github.com/SREYAN-SARKAR)
 
 ---
-
 ### 💡 "Always learning. Always building. Always improving."
 
 
