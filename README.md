@@ -18,22 +18,17 @@ Currently focused on:
 ## 🛠️ Tools & Technologies
 
 ### Languages
-
 * **C**
 * **Python**
 * **Java**
 
 ### Web Development
-
 * **HTML**
 * **CSS**
 * **Java Script**
 
 ### Data & Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-
+* **Jupyter**
 ---
 
 ## 📫 How to reach me
