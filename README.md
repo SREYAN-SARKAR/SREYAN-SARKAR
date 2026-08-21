@@ -1,26 +1,21 @@
 # Hi, I'm Sreyan Sarkar 👋
 
-### Software Engineering Student | Frontend Developer | ML & Data Analytics Enthusiast
----
+### A Software Engineering Student
+
 ## 
 Currently focused on:
 *  Building and improving projects to grow my development portfolio
 *  Making different new project whether it is simple or complex.
 
----
 ## 🛠️ Tools & Tech
-
-### Languages
 * **Languages - C, Python, Java**
 * **Web Develpoment - HTML, CSS, Java Script**
 * **Machine Learning - Jupyter**
----
-## 📫 How to reach me
 
+## 📫 How to reach me
 * 💼 **LinkedIn:** [Sreyan Sarkar](https://www.linkedin.com/in/sreyan-sarkar/)
 * 🐙 **GitHub:** [SREYAN-SARKAR](https://github.com/SREYAN-SARKAR)
 
----
 ### 💡 "Always learning. Always building. Always improving."
 
 
