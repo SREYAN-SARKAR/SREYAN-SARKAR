@@ -1,21 +1,16 @@
 # Hi, I'm Sreyan Sarkar 👋
 
 ### Software Engineering Student | Frontend Developer | ML & Data Analytics Enthusiast
-
 ---
 
 ## 
 Currently focused on:
-
-* 🌐 Building **responsive and modern web applications**
-* 🤖 Learning and implementing **Machine Learning projects**
-* 📊 Exploring **Data Analytics and data-driven applications**
-* 🧩 Strengthening my **Data Structures & Algorithms**
-* 🛠️ Building and improving projects to grow my development portfolio
+*  Building and improving projects to grow my development portfolio
+*  Making different new project whether it is simple or complex.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Tech
 
 ### Languages
 * **C**
