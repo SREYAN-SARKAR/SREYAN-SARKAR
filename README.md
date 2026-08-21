@@ -21,7 +21,7 @@ Currently focused on:
 
 * **C**
 * **Python**
-* **Java Script**
+* **Java**
 
 ### Web Development
 
