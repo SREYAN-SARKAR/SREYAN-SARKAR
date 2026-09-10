@@ -25,35 +25,15 @@ I'm a Software Engineering student interested in **software development, web dev
 - JavaScript
 - Front-end Development
 
-### 🤖 Machine Learning & Data
-
-- Machine Learning
-- Natural Language Processing (NLP)
-- Data Analytics
-- Jupyter Notebook
-- Python-based ML projects
-
-### 🔧 Tools & Platforms
-
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
-
 ## 📌 Featured Projects
-
-Here are some of the projects I'm currently building and improving:
-
 - 📩 **SMS Spam Detection** — A machine learning project for classifying SMS messages as spam or legitimate.
 - 🧪 **Reactor Yield Prediction** — A machine learning project focused on predicting reactor yield from data.
 - etc
   
 ## 🎯 My Goal
-
 To keep learning, build meaningful projects, and become a stronger **software developer with practical skills in AI/ML and modern web technologies**.
 
 ## 📫 Connect With Me
-
 - 💼 **LinkedIn:** [Sreyan Sarkar](https://www.linkedin.com/in/sreyan-sarkar/)
 - 🐙 **GitHub:** [SREYAN-SARKAR](https://github.com/SREYAN-SARKAR)
 
