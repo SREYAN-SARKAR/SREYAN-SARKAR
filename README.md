@@ -1,13 +1,10 @@
 # Hi, I'm Sreyan Sarkar 👋
 
-### 💻 Software Engineering Student | Developer | ML Enthusiast
-
 I'm a Software Engineering student interested in **software development, web development, machine learning, and data-driven projects**. I enjoy turning ideas into working projects — from simple applications to more complex real-world solutions — while continuously improving my skills.
 
 ## 🚀 What I'm Currently Working On
 
 - 🔨 Building and improving projects for my development portfolio
-- 🤖 Exploring **Machine Learning, AI, and data analytics**
 - 🌐 Improving my **front-end and web development** skills
 - 🧠 Strengthening my knowledge of **DSA, programming, and problem solving**
 - 📚 Learning new technologies by building practical projects
